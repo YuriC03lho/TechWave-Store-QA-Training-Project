@@ -1,0 +1,15 @@
+BUG-001
+
+Título: Carrinho duplica itens ao clicar rapidamente
+
+Severidade: Alta
+
+Passos:
+1. Ir para produtos
+2. Clicar várias vezes em "Adicionar"
+
+Resultado esperado:
+Adicionar apenas 1 item
+
+Resultado atual:
+Itens duplicados
